@@ -1,4 +1,4 @@
-module github.com/Phenomendx/greetings.com/miurco
+module github.com/Phenomendx/greetings_module
 
 go 1.16
 
